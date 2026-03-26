@@ -1,0 +1,22 @@
+[
+  {"prompt": "What is AI?", "label": "FAST"},
+  {"prompt": "Define HTTP", "label": "FAST"},
+  {"prompt": "What is SIEM?", "label": "FAST"},
+  {"prompt": "Explain machine learning", "label": "CAPABLE"},
+  {"prompt": "Write Python code for login system", "label": "CAPABLE"},
+  {"prompt": "Compare HTTP vs HTTPS", "label": "CAPABLE"},
+  {"prompt": "What is IP address?", "label": "FAST"},
+  {"prompt": "Explain OWASP Top 10", "label": "CAPABLE"},
+  {"prompt": "Define firewall", "label": "FAST"},
+  {"prompt": "How does blockchain work?", "label": "CAPABLE"},
+  {"prompt": "What is DNS?", "label": "FAST"},
+  {"prompt": "Explain encryption in detail", "label": "CAPABLE"},
+  {"prompt": "What is phishing?", "label": "FAST"},
+  {"prompt": "Write SQL query for users table", "label": "CAPABLE"},
+  {"prompt": "What is malware?", "label": "FAST"},
+  {"prompt": "Explain zero trust security", "label": "CAPABLE"},
+  {"prompt": "Define VPN", "label": "FAST"},
+  {"prompt": "How to secure web application?", "label": "CAPABLE"},
+  {"prompt": "What is cloud computing?", "label": "FAST"},
+  {"prompt": "Explain network security architecture", "label": "CAPABLE"}
+]
